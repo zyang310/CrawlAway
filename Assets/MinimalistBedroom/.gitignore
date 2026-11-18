@@ -1,0 +1,6 @@
+# Demo scene with baked lighting (~71 MB, not used by our scenes)
+Scenes/
+Scenes.meta
+# Pack documentation
+Documentation.pdf
+Documentation.pdf.meta
